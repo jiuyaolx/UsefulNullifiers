@@ -1,0 +1,9 @@
+item.usefulnullifiers.overflowNullifierItem.name=便携溢出废弃者
+item.usefulnullifiers.voidNullifierItem.name=便携物体废弃者
+item.usefulnullifiers.fluidVoidNullifierItem.name=便携液体废弃者
+
+tile.usefulnullifiers.voidNullifierBlock.name=物品废弃者
+tile.usefulnullifiers.fluidVoidNullifierBlock.name=液体废弃者
+tile.usefulnullifiers.energyVoidNullifierBlock.name=能量废弃者
+
+itemGroup.usefulnullifiers.tabMain=Useful Nullifiers
